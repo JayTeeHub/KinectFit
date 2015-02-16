@@ -1,0 +1,62 @@
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe.config
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.pdb
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\MySql.Data.dll
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form1.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form10.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form2.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form3.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form4.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form5.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form6.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form7.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form8.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form9.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Properties.Resources.resources
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.csproj.GenerateResource.Cache
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.exe
+F:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.pdb
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe.config
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.exe
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.pdb
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.pdb
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\MySql.Data.dll
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form10.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form7.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form8.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form9.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Properties.Resources.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.csproj.GenerateResource.Cache
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form12.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form13.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.csprojResolveAssemblyReference.cache
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.MainForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.AuthForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.FitForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.SelectForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.StyleForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.KLoadForm.resources
+E:\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.KinectForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe.config
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.exe
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.pdb
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.exe
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\KinectFit.pdb
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\bin\Debug\MySql.Data.dll
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.csprojResolveAssemblyReference.cache
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.MainForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form10.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.AuthForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form12.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form13.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.FitForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.SelectForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.StyleForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.KLoadForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.KinectForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Form7.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.ProductForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.SimilarForm.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.Properties.Resources.resources
+C:\Program Files\School\Fall 2014\TPJ655\Software\KinectFit\KinectFit\obj\Debug\KinectFit.csproj.GenerateResource.Cache
